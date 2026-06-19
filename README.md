@@ -219,6 +219,4 @@ B.Tech CSE (Cloud Computing & Virtualization Technology)
 
 DevSecOps | Cloud Computing | Container Security | Kubernetes
 
----
 
-**Project Status:** ✅ Phase 1 In Progress / Near Completion
